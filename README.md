@@ -1,1 +1,2 @@
-# iOS_Expert_Sample
+# iOS Expert Sample
+This Codebase is placed public for Review purpose only. The files are fragments of the Codebase to allow the review process. This code solely belongs to Appcrates and not authorized to be used in any of the app.
